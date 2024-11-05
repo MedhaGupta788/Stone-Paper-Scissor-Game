@@ -24,16 +24,21 @@ The Stone Paper Scissors game lets you:
 ## 📸 Screenshots
 
 **Game Start**  
-![Game Start](./screenshots/game-start.png)  
+![Game Start](./screenshots/Screenshot%20(208).png)  
 *Initial game screen for player to make a move.*
 
-**Gameplay**  
-![Gameplay](./screenshots/gameplay.png)  
-*Example of gameplay showing the player's choice, computer's choice, and the result.*
+**Wining Screen**  
+![Wining Screen](./screenshots/Screenshot%20(209).png)  
+*Example of gameplay showing the player's win, and the result.*
 
-**End Screen**  
-![End Screen](./screenshots/end-screen.png)  
-*Screen displaying the final score.*
+**Losing Screen**
+![Losing Screen](./screenshots/Screenshot%20(211).png)  
+*Example of gameplay showing the computer's win, and the result.*
+
+
+**Draw Screen**  
+![Draw Screen](./screenshots/Screenshot%20(210).png)  
+*Screen displaying Draw.*
 
 ## 🚀 How to Play
 1. Choose one of the options: Stone, Paper, or Scissors.
@@ -41,4 +46,3 @@ The Stone Paper Scissors game lets you:
 3. The result (win, lose, draw) is displayed, along with updated scores.
 4. Repeat to play again!
 
-## 📂 Project Structure
